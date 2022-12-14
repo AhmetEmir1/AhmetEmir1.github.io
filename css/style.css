@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+body{
+    background-image : url(../img/arkaplan.jpg);
+    background-size: cover;
+}
+.kutu{
+    width: 500px;
+    height: 500px;
+  background:rgba(0, 0, 0, 0.4);
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+    
+    
+
+}
+.img-kutu{
+    width: 240px;
+    height: 240px;
+}
+    
